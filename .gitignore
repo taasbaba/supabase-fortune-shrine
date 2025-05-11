@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+
+# React build artifacts
+/frontend/build/
+frontend/.DS_Store
+
+# Supabase CLI config and build
+/supabase/config.toml
+/.supabase/
+/supabase/.temp
+/supabase/.branches
+
+# IDE/editor files
+*.swp
+*.swo
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# OS/Trash
+Thumbs.db
+Desktop.ini
