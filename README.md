@@ -1,4 +1,5 @@
 # Fortune Shrine Demo — Supabase × React × Edge Functions
+**Live Demo:** [supabase-fortune-shrine.vercel.app](https://supabase-fortune-shrine.vercel.app)
 
 This is a technical demo of a real-time fortune draw app inspired by Japanese omikuji shrines.  
 Designed as a showcase of full-stack skills with Supabase, Edge Functions, TypeScript, and modern frontend.

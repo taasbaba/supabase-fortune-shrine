@@ -169,8 +169,7 @@ function respond(body: any, status = 200, origin?: string | null): Response {
 
 function corsHeaders(origin: string | null) {
   const allowedOrigins = [
-    "http://localhost:3000",
-    "https://your-domain.com", // TODO: change to prod domain
+    "https://supabase-fortune-shrine.vercel.app",
   ];
 
   const allow = allowedOrigins.includes(origin || "") ? origin : "null";
